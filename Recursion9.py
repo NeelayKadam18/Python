@@ -1,4 +1,4 @@
-# Factorial using Recursion
+# Factorial using Recursion:
 
 def Factorial(No):
     if(No <= 0):
